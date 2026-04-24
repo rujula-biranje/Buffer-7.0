@@ -35,11 +35,12 @@ and food preparation time.
 
 ## How to Run
 ### Backend
-cd calculate-queue
-deno task start
+cd backend
+npm install
+npm run dev
 
 ### Frontend
-cd canteen-frontend
+cd frontend
 npm install
 npm run dev
 
