@@ -2,9 +2,9 @@
 
 ## Team Members
 - Rujula Biranje (Mech)
-- Priya Kularni (Instru)
-- Shreya (IT)
-- Pooja (IT)
+- Priya Kulkarni (Instru)
+- Shreya Joshi (IT)
+- Pooja Kawate (IT)
 
 ## Theme
 Enterprise Systems & Process Optimization
