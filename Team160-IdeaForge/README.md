@@ -2,12 +2,12 @@
 
 ## Team Members
 - Rujula Biranje (Mech)
-- Priya Kularni (Instru)
-- Shreya (IT)
-- Pooja (IT)
+- Priya Kulkarni (Instru)
+- Shreya Joshi (IT)
+- Pooja Kawate (IT)
 
 ## Theme
-Enterprise Systems & Process Optimization
+Open Innovation
 
 ## Project Description
 A smart canteen queue management system that calculates 
@@ -35,11 +35,12 @@ and food preparation time.
 
 ## How to Run
 ### Backend
-cd calculate-queue
-deno task start
+cd backend
+npm install
+npm run dev
 
 ### Frontend
-cd canteen-frontend
+cd frontend
 npm install
 npm run dev
 
