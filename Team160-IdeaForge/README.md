@@ -7,7 +7,7 @@
 - Pooja Kawate (IT)
 
 ## Theme
-Enterprise Systems & Process Optimization
+Open Innovation 
 
 ## Project Description
 A smart canteen queue management system that calculates 
